@@ -9,6 +9,9 @@
 
 <br/>
 
+## Important
+this fork removes source map to remedy https://github.com/hellosign/hellosign-embedded/issues/110
+
 ## Usage
 
 > The instructions below are for HelloSign Embedded v2. We recommend using it instead of v1 for new projects. Please check the [migration guide][wiki_migration-guide] if you need help upgrading from v1 to v2.
